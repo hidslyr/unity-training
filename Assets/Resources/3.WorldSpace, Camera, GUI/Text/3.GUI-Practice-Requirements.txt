@@ -1,0 +1,10 @@
+PRACTICE REQUIREMENTS
+
+1. Make a UI follow reference screen
+
+2. Make sure all UI element can be visible and no overlapped between them in follow resolution:
+	- 1080x1920 = base resolution
+	- 720x1080
+	- 1080x2180
+	- 1242x2688
+	- 1080x1080
