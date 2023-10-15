@@ -1,0 +1,7 @@
+PRACTICE REQUIREMENTS
+
+1. Replicate Demo Scene
+
+2. Have an Enemy Spawner with 5s interval spawn, enemy can just be a simple sprite
+
+3. Make Enemy die on collide with bullet, bullet also being destroyed at the time
